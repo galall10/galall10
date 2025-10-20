@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Galal
+# 👋 Hi, I'm Mohamed Galal
 
 ### 🧠 AI Engineer | 🎓 B.Sc. in Computer Science, Cairo University
 
