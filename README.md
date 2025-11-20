@@ -8,7 +8,7 @@ I enjoy building intelligent systems that bridge **AI and scalable software engi
 ---
 
 ## 🚀 About Me
-- 🎯 Junior **AI Engineer** specializing in **RAG pipelines**, **Vision-Language Models (VLMs)**, and **Multimodal Applications**.
+- 🎯 **AI Engineer** specializing in **RAG pipelines**, **Vision-Language Models (VLMs)**, and **Multimodal Applications**.
 - 💻 Previously a **Backend Developer Intern**, experienced in **Spring Boot**, **Flask**, and **RESTful API** design.
 - 🧩 Skilled in designing **end-to-end AI systems**, integrating **model inference, data processing**, and **deployment** with Docker.
 - 🌍 Based in **6th of October City, Giza, Egypt**.
